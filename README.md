@@ -38,9 +38,19 @@ Similarly, for departure time we will use:<br>
 &nbsp;&nbsp;&nbsp;Nominal data --> data are not in any order --> OneHotEncoder
 &nbsp;&nbsp;&nbsp;Ordinal data --> data are in order --> LabelEncoder
 
-5. Comparing categorical var with price column:
+5. **Comparing categorical var with price column:**
 ### Airline vs Price:
 ![alt-text](https://github.com/HitPant/Flight_price_prediction/blob/main/images/avsp.jpg)
 
-#### Source vs Price:
+### Source vs Price:
 ![alt-text](https://github.com/HitPant/Flight_price_prediction/blob/main/images/svsp.jpg)
+
+6. **For Total_Stops** column we perform LabelEncoding
+
+7. **Feature Selection:**
+&nbsp;&nbsp;&nbsp;heatmap:
+&nbsp;&nbsp;&nbsp;feature selection : ExtraTreeRegressor:
+
+8. **Train Model:** RandomForestRegressor
+9. **Hyperparameter Tuining**
+10. Save model
