@@ -26,5 +26,5 @@ The problem aims at predicting the flight prices based on the following paramete
 
 ![alt-text](https://github.com/HitPant/Flight_price_prediction/blob/main/images/cls.jpg)
 
-&nbsp;&nbsp;.dt.day method will extract day of that date.
+&nbsp;&nbsp;.dt.day method will extract day of that date.<br>
 &nbsp;&nbsp;.dt.month method will extract month of that date.
