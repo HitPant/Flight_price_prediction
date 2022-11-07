@@ -49,10 +49,13 @@ Similarly, for departure time we will use:<br>
 
 7. **Feature Selection:**
 &nbsp;&nbsp;&nbsp;heatmap:
+![alt-text](https://github.com/HitPant/Flight_price_prediction/blob/main/images/corr.jpg)
+
 &nbsp;&nbsp;&nbsp;feature selection : ExtraTreeRegressor:
+![alt-text](https://github.com/HitPant/Flight_price_prediction/blob/main/images/ft_imp.jpg)
 
 8. **Train Model:** RandomForestRegressor
 9. **Hyperparameter Tuining**
-10. Save model
+10. **Save model**
 
 ____________________________________________________________________________________________________________
