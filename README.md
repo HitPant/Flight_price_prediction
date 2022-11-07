@@ -4,7 +4,8 @@
 
 This is my take on the the flight prediction problem.
 
-### **Aim:** The problem aims at predicting the flight prices based on the following parameters:
+### **Aim:** 
+The problem aims at predicting the flight prices based on the following parameters:
 1. Date_of_Journey
 2. Source
 3. Destination	
