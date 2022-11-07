@@ -16,4 +16,15 @@ The problem aims at predicting the flight prices based on the following paramete
 8. Total_Stops
 
 
-###
+### Following steps have been performed:
+
+1. Data description
+2. EDA
+3. Handling Object datatype<br>
+&nbsp;&nbsp;Date_of_Journey is an object data type<br>
+&nbsp;&nbsp;to use this column for prediction we need to convert this datatype into timestamp<br>
+
+![alt-text](https://github.com/HitPant/Flight_price_prediction/blob/main/images/cls.jpg)
+
+&nbsp;&nbsp;.dt.day method will extract day of that date.
+&nbsp;&nbsp;.dt.month method will extract month of that date.
