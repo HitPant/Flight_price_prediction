@@ -39,4 +39,8 @@ Similarly, for departure time we will use:<br>
 &nbsp;&nbsp;&nbsp;Ordinal data --> data are in order --> LabelEncoder
 
 5. Comparing categorical var with price column:
-Airline vs Price:
+### Airline vs Price:
+![alt-text](https://github.com/HitPant/Flight_price_prediction/blob/main/images/avsp.jpg)
+
+#### Source vs Price:
+![alt-text](https://github.com/HitPant/Flight_price_prediction/blob/main/images/svsp.jpg)
